@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshuanu007
+- 👋 Hi, I’m @akshubhitha
 - 👀 I’m interested in technology, finance and baking
 - 🌱 I’m currently learning how to solve leetcode questions
 - 💞️ I’m looking to collaborate on.. still thinking of ideas
